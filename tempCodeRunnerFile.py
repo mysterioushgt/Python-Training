@@ -1,0 +1,1 @@
+label1.pack(fill=tk.BOTH ,expand=True)
